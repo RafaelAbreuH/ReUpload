@@ -138,7 +138,7 @@
             // 
             this.btn_Nuevo.Image = global::RegistroExamen.Properties.Resources.icons8_New_Copy_32;
             this.btn_Nuevo.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_Nuevo.Location = new System.Drawing.Point(67, 344);
+            this.btn_Nuevo.Location = new System.Drawing.Point(58, 344);
             this.btn_Nuevo.Name = "btn_Nuevo";
             this.btn_Nuevo.Size = new System.Drawing.Size(118, 54);
             this.btn_Nuevo.TabIndex = 16;
@@ -162,7 +162,7 @@
             // 
             this.btn_Eliminar.Image = global::RegistroExamen.Properties.Resources.icons8_Delete_Document_32;
             this.btn_Eliminar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_Eliminar.Location = new System.Drawing.Point(379, 344);
+            this.btn_Eliminar.Location = new System.Drawing.Point(384, 344);
             this.btn_Eliminar.Name = "btn_Eliminar";
             this.btn_Eliminar.Size = new System.Drawing.Size(126, 54);
             this.btn_Eliminar.TabIndex = 18;
@@ -174,7 +174,7 @@
             // 
             this.btn_Buscar.Image = global::RegistroExamen.Properties.Resources.icons8_Search_16;
             this.btn_Buscar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_Buscar.Location = new System.Drawing.Point(190, 23);
+            this.btn_Buscar.Location = new System.Drawing.Point(196, 23);
             this.btn_Buscar.Name = "btn_Buscar";
             this.btn_Buscar.Size = new System.Drawing.Size(77, 29);
             this.btn_Buscar.TabIndex = 19;

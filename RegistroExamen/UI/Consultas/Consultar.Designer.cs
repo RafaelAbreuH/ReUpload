@@ -108,7 +108,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(308, 71);
+            this.label4.Location = new System.Drawing.Point(308, 77);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(38, 13);
             this.label4.TabIndex = 9;
@@ -125,7 +125,7 @@
             // 
             this.btn_Consultar.Image = global::RegistroExamen.Properties.Resources.icons8_Search_Property_32;
             this.btn_Consultar.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.btn_Consultar.Location = new System.Drawing.Point(511, 12);
+            this.btn_Consultar.Location = new System.Drawing.Point(517, 12);
             this.btn_Consultar.Name = "btn_Consultar";
             this.btn_Consultar.Size = new System.Drawing.Size(94, 39);
             this.btn_Consultar.TabIndex = 6;
