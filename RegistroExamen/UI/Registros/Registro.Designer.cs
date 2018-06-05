@@ -174,7 +174,7 @@
             // 
             this.btn_Buscar.Image = global::RegistroExamen.Properties.Resources.icons8_Search_16;
             this.btn_Buscar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_Buscar.Location = new System.Drawing.Point(196, 23);
+            this.btn_Buscar.Location = new System.Drawing.Point(194, 20);
             this.btn_Buscar.Name = "btn_Buscar";
             this.btn_Buscar.Size = new System.Drawing.Size(77, 29);
             this.btn_Buscar.TabIndex = 19;
