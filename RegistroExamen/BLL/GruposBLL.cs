@@ -40,6 +40,7 @@ namespace RegistroExamen.BLL
             Contexto contexto = new Contexto();
 
             try
+
             {
                 contexto.Entry(grupos).State = System.Data.Entity.EntityState.Modified;
                 if(contexto.SaveChanges() > 0)
