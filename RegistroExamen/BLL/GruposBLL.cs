@@ -81,6 +81,7 @@ namespace RegistroExamen.BLL
             return paso;
         }
 
+
         public static Grupos Buscar(int GId)
         {
             Grupos grupos = new Grupos();
